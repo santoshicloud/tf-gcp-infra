@@ -24,3 +24,5 @@ jobs:
           terraform init -upgrade
           terraform fmt
           terraform validate
+
+    
