@@ -7,5 +7,3 @@ resource "google_compute_route" "webapp_route_to_internet" {
     google_compute_subnetwork.webapp_subnet,
   ]  
 }
-
-//making an edit for the code review
