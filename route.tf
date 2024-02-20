@@ -8,4 +8,3 @@ resource "google_compute_route" "webapp_route_to_internet" {
   ]  
 }
 
-//adding for code review
